@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Examen_Parcial_MichaelRuiz</string>
+    <string name="Login">Ingresar</string>
+    <string name="Title_Menu">Menú</string>
+    <string name="BotonMenu1">PRIZES</string>
+    <string name="BotonMenu2">TEAMS</string>
+    <string name="BotonMenu3">STADIUMS</string>
+    <string name="Title_TCambio">PRIZES</string>
+    <string name="BotonCalcular">Calculate</string>
+    <string name="Welcome">Welcome America Cup 2024</string>
+    <string name="Login1">Login</string>
+</resources>
